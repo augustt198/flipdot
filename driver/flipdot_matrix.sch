@@ -224,96 +224,80 @@ $EndComp
 Text HLabel 1300 1350 2    60   Input ~ 0
 FLIP+
 Text HLabel 2500 1650 2    60   Input ~ 0
-ROW1+
-Text HLabel 1800 1650 0    60   Input ~ 0
-ROW1-
-Text HLabel 2500 2250 2    60   Input ~ 0
-ROW2+
-Text HLabel 1800 2250 0    60   Input ~ 0
-ROW2-
-Text HLabel 2500 2850 2    60   Input ~ 0
-ROW3+
-Text HLabel 2500 3450 2    60   Input ~ 0
-ROW4+
-Text HLabel 1800 2850 0    60   Input ~ 0
-ROW3-
-Text HLabel 1800 3450 0    60   Input ~ 0
-ROW4-
-Text HLabel 1800 4050 0    60   Input ~ 0
-ROW5-
-Text HLabel 2500 4050 2    60   Input ~ 0
-ROW5+
-Text HLabel 2500 4650 2    60   Input ~ 0
-ROW6+
-Text HLabel 1800 4650 0    60   Input ~ 0
-ROW6-
-Text HLabel 1800 5250 0    60   Input ~ 0
-ROW7-
-Text HLabel 2500 5250 2    60   Input ~ 0
-ROW7+
-Text HLabel 1800 5850 0    60   Input ~ 0
-ROW8-
-Text HLabel 2500 5850 2    60   Input ~ 0
-ROW8+
-Text HLabel 2500 6450 2    60   Input ~ 0
-ROW9+
-Text HLabel 1800 6450 0    60   Input ~ 0
-ROW9-
-Text HLabel 1800 7050 0    60   Input ~ 0
-ROW10-
-Text HLabel 1800 7650 0    60   Input ~ 0
-ROW11-
-Text HLabel 2500 7050 2    60   Input ~ 0
-ROW10+
-Text HLabel 2500 7650 2    60   Input ~ 0
-ROW11+
-Text HLabel 2500 8250 2    60   Input ~ 0
-ROW12+
-Text HLabel 1800 8250 0    60   Input ~ 0
-ROW12-
-Text HLabel 2500 8850 2    60   Input ~ 0
-ROW13+
-Text HLabel 2500 9450 2    60   Input ~ 0
 ROW14+
-Text HLabel 2500 10050 2    60   Input ~ 0
-ROW15+
-Text HLabel 2500 10650 2    60   Input ~ 0
+Text HLabel 1800 1650 0    60   Input ~ 0
 ROW16+
-Text HLabel 1800 8850 0    60   Input ~ 0
-ROW13-
-Text HLabel 1800 9450 0    60   Input ~ 0
+Text HLabel 2500 2250 2    60   Input ~ 0
+ROW10+
+Text HLabel 1800 2250 0    60   Input ~ 0
+ROW12+
+Text HLabel 2500 2850 2    60   Input ~ 0
+ROW6+
+Text HLabel 2500 3450 2    60   Input ~ 0
+ROW2+
+Text HLabel 1800 2850 0    60   Input ~ 0
+ROW8+
+Text HLabel 1800 3450 0    60   Input ~ 0
+ROW4+
+Text HLabel 1800 4050 0    60   Input ~ 0
+ROW1+
+Text HLabel 2500 4050 2    60   Input ~ 0
+ROW3+
+Text HLabel 2500 4650 2    60   Input ~ 0
+ROW7+
+Text HLabel 1800 4650 0    60   Input ~ 0
+ROW5+
+Text HLabel 1800 5250 0    60   Input ~ 0
+ROW9+
+Text HLabel 2500 5250 2    60   Input ~ 0
+ROW11+
+Text HLabel 1800 5850 0    60   Input ~ 0
+ROW13+
+Text HLabel 2500 5850 2    60   Input ~ 0
+ROW15+
+Text HLabel 2500 6450 2    60   Input ~ 0
 ROW14-
-Text HLabel 1800 10050 0    60   Input ~ 0
-ROW15-
-Text HLabel 1800 10650 0    60   Input ~ 0
+Text HLabel 1800 6450 0    60   Input ~ 0
 ROW16-
+Text HLabel 1800 7050 0    60   Input ~ 0
+ROW12-
+Text HLabel 1800 7650 0    60   Input ~ 0
+ROW8-
+Text HLabel 2500 7050 2    60   Input ~ 0
+ROW10-
+Text HLabel 2500 7650 2    60   Input ~ 0
+ROW6-
+Text HLabel 2500 8250 2    60   Input ~ 0
+ROW2-
+Text HLabel 1800 8250 0    60   Input ~ 0
+ROW4-
+Text HLabel 2500 8850 2    60   Input ~ 0
+ROW3-
+Text HLabel 2500 9450 2    60   Input ~ 0
+ROW7-
+Text HLabel 2500 10050 2    60   Input ~ 0
+ROW11-
+Text HLabel 2500 10650 2    60   Input ~ 0
+ROW15-
+Text HLabel 1800 8850 0    60   Input ~ 0
+ROW1-
+Text HLabel 1800 9450 0    60   Input ~ 0
+ROW5-
+Text HLabel 1800 10050 0    60   Input ~ 0
+ROW9-
+Text HLabel 1800 10650 0    60   Input ~ 0
+ROW13-
 $Comp
 L GND #PWR041
 U 1 1 598A021B
-P 1200 10950
-F 0 "#PWR041" H 1200 10700 50  0001 C CNN
-F 1 "GND" H 1200 10800 50  0000 C CNN
-F 2 "" H 1200 10950 50  0001 C CNN
-F 3 "" H 1200 10950 50  0001 C CNN
-	1    1200 10950
+P 1300 10950
+F 0 "#PWR041" H 1300 10700 50  0001 C CNN
+F 1 "GND" H 1300 10800 50  0000 C CNN
+F 2 "" H 1300 10950 50  0001 C CNN
+F 3 "" H 1300 10950 50  0001 C CNN
+	1    1300 10950
 	1    0    0    -1  
 $EndComp
-Text Label 3350 6450 0    60   ~ 0
-ROW9
-Text Label 3350 7050 0    60   ~ 0
-ROW10
-Text Label 3350 7650 0    60   ~ 0
-ROW11
-Text Label 3350 8250 0    60   ~ 0
-ROW12
-Text Label 3350 8850 0    60   ~ 0
-ROW13
-Text Label 3350 9450 0    60   ~ 0
-ROW14
-Text Label 3350 10050 0    60   ~ 0
-ROW15
-Text Label 3350 10650 0    60   ~ 0
-ROW16
 $Comp
 L DUAL_NPN_MOSFET Q2
 U 1 1 598A248F
@@ -538,164 +522,40 @@ F 3 "" H 6300 9700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2500 1550 3000 1550
+	3350 2350 2500 2350
 Wire Wire Line
-	1800 1550 1200 1550
+	3350 2950 2500 2950
 Wire Wire Line
-	1200 1550 1200 10950
+	3350 3550 2500 3550
 Wire Wire Line
-	1800 2150 1200 2150
-Connection ~ 1200 2150
+	1300 1350 1300 5750
 Wire Wire Line
-	1800 2750 1200 2750
-Connection ~ 1200 2750
+	1300 6550 1300 10950
 Wire Wire Line
-	1800 3350 1200 3350
-Connection ~ 1200 3350
+	3350 4150 2500 4150
 Wire Wire Line
-	3000 1550 3000 1750
+	3350 4750 2500 4750
 Wire Wire Line
-	3000 1750 2500 1750
+	3350 5350 2500 5350
 Wire Wire Line
-	2500 2150 3000 2150
-Wire Wire Line
-	3000 2150 3000 2350
-Wire Wire Line
-	3000 2350 2500 2350
-Wire Wire Line
-	2500 2750 3000 2750
-Wire Wire Line
-	3000 2750 3000 2950
-Wire Wire Line
-	3000 2950 2500 2950
-Wire Wire Line
-	2500 3350 3000 3350
-Wire Wire Line
-	3000 3350 3000 3550
-Wire Wire Line
-	3000 3550 2500 3550
-Wire Wire Line
-	1300 1350 1300 10750
-Connection ~ 1300 1750
-Connection ~ 1300 2350
-Connection ~ 1300 2950
-Connection ~ 3000 1650
-Connection ~ 3000 2250
-Connection ~ 3000 2850
-Connection ~ 3000 3450
-Connection ~ 1300 3550
-Wire Wire Line
-	2500 3950 3000 3950
-Wire Wire Line
-	3000 3950 3000 4150
-Wire Wire Line
-	3000 4150 2500 4150
-Connection ~ 3000 4050
-Wire Wire Line
-	1800 3950 1200 3950
-Connection ~ 1200 3950
-Connection ~ 1300 4150
-Connection ~ 1300 4750
-Connection ~ 1300 5350
-Wire Wire Line
-	1300 5350 1800 5350
-Wire Wire Line
-	1300 4750 1800 4750
-Wire Wire Line
-	1300 4150 1800 4150
-Wire Wire Line
-	1800 5150 1200 5150
-Connection ~ 1200 5150
-Wire Wire Line
-	1800 4550 1200 4550
-Connection ~ 1200 4550
-Wire Wire Line
-	1300 1750 1800 1750
-Wire Wire Line
-	1300 2350 1800 2350
-Wire Wire Line
-	1300 2950 1800 2950
-Wire Wire Line
-	1300 3550 1800 3550
-Wire Wire Line
-	2500 4550 3000 4550
-Wire Wire Line
-	3000 4550 3000 4750
-Wire Wire Line
-	3000 4750 2500 4750
-Wire Wire Line
-	2500 5150 3000 5150
-Wire Wire Line
-	3000 5150 3000 5350
-Wire Wire Line
-	3000 5350 2500 5350
-Connection ~ 3000 4650
-Connection ~ 3000 5250
-Wire Wire Line
-	1800 5750 1200 5750
-Connection ~ 1200 5750
-Wire Wire Line
-	1800 5950 1300 5950
-Connection ~ 1300 5950
-Wire Wire Line
-	2500 5750 3000 5750
-Wire Wire Line
-	3000 5750 3000 5950
-Wire Wire Line
-	3000 5950 2500 5950
-Connection ~ 3000 5850
-Wire Wire Line
-	1800 6350 1200 6350
-Connection ~ 1200 6350
+	3350 5950 2500 5950
 Wire Wire Line
 	1800 6550 1300 6550
 Connection ~ 1300 6550
 Wire Wire Line
-	1800 6950 1200 6950
-Connection ~ 1200 6950
-Wire Wire Line
 	1800 7150 1300 7150
 Connection ~ 1300 7150
 Wire Wire Line
-	2500 6350 3000 6350
+	2500 6350 3250 6350
 Wire Wire Line
-	3000 6350 3000 6550
-Wire Wire Line
-	3000 6550 2500 6550
-Wire Wire Line
-	2500 6950 3000 6950
-Wire Wire Line
-	3000 6950 3000 7150
-Wire Wire Line
-	3000 7150 2500 7150
-Wire Wire Line
-	1800 7550 1200 7550
-Connection ~ 1200 7550
+	2500 6950 3250 6950
 Wire Wire Line
 	1800 7750 1300 7750
 Connection ~ 1300 7750
 Wire Wire Line
-	1800 8150 1200 8150
-Connection ~ 1200 8150
+	3250 7550 2500 7550
 Wire Wire Line
-	2500 7550 3000 7550
-Wire Wire Line
-	3000 7550 3000 7750
-Wire Wire Line
-	3000 7750 2500 7750
-Wire Wire Line
-	2500 8150 3000 8150
-Wire Wire Line
-	3000 8150 3000 8350
-Wire Wire Line
-	3000 8350 2500 8350
-Connection ~ 3000 6450
-Connection ~ 3000 7050
-Connection ~ 3000 7650
-Connection ~ 3000 8250
-Wire Wire Line
-	1800 8750 1200 8750
-Connection ~ 1200 8750
+	3250 8150 2500 8150
 Wire Wire Line
 	1800 8950 1300 8950
 Connection ~ 1300 8950
@@ -703,48 +563,19 @@ Wire Wire Line
 	1800 8350 1300 8350
 Connection ~ 1300 8350
 Wire Wire Line
-	2500 8750 3000 8750
+	3250 8750 2500 8750
 Wire Wire Line
-	3000 8750 3000 8950
-Wire Wire Line
-	3000 8950 2500 8950
-Wire Wire Line
-	2500 9350 3000 9350
-Wire Wire Line
-	3000 9350 3000 9550
-Wire Wire Line
-	3000 9550 2500 9550
-Wire Wire Line
-	1800 9350 1200 9350
-Connection ~ 1200 9350
+	3250 9350 2500 9350
 Wire Wire Line
 	1800 9550 1300 9550
 Connection ~ 1300 9550
 Wire Wire Line
-	1800 9950 1200 9950
-Connection ~ 1200 9950
-Wire Wire Line
 	1800 10150 1300 10150
 Connection ~ 1300 10150
 Wire Wire Line
-	1800 10550 1200 10550
-Connection ~ 1200 10550
+	3250 9950 2500 9950
 Wire Wire Line
-	2500 9950 3000 9950
-Wire Wire Line
-	3000 9950 3000 10150
-Wire Wire Line
-	3000 10150 2500 10150
-Wire Wire Line
-	2500 10550 3000 10550
-Wire Wire Line
-	3000 10550 3000 10750
-Wire Wire Line
-	3000 10750 2500 10750
-Connection ~ 3000 8850
-Connection ~ 3000 9450
-Connection ~ 3000 10050
-Connection ~ 3000 10650
+	3250 10550 2500 10550
 Wire Wire Line
 	1300 10750 1800 10750
 Wire Wire Line
@@ -1455,356 +1286,258 @@ COL28
 $Comp
 L CONN_02X32 J2
 U 1 1 598AFF7E
-P 13100 5600
-F 0 "J2" H 13100 7250 50  0000 C CNN
-F 1 "CONN_02X32" V 13100 5600 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x32_Pitch2.54mm" H 13100 5200 50  0001 C CNN
-F 3 "" H 13100 5200 50  0001 C CNN
-	1    13100 5600
+P 11050 5900
+F 0 "J2" H 11050 7550 50  0000 C CNN
+F 1 "CONN_02X32" V 11050 5900 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_2x32_Pitch2.54mm" H 11050 5500 50  0001 C CNN
+F 3 "" H 11050 5500 50  0001 C CNN
+	1    11050 5900
 	1    0    0    -1  
 $EndComp
-Text Label 12850 4050 2    60   ~ 0
-ROW1
-Text Label 12850 4150 2    60   ~ 0
-ROW2
-Text Label 12850 4250 2    60   ~ 0
-ROW3
-Text Label 12850 4350 2    60   ~ 0
-ROW4
-Text Label 12850 4450 2    60   ~ 0
-ROW5
-Text Label 12850 4550 2    60   ~ 0
-ROW6
-Text Label 12850 4650 2    60   ~ 0
-ROW7
-Text Label 12850 4750 2    60   ~ 0
-ROW8
-Text Label 12850 4850 2    60   ~ 0
-ROW9
-Text Label 12850 4950 2    60   ~ 0
-ROW10
-Text Label 12850 5050 2    60   ~ 0
-ROW11
-Text Label 12850 5150 2    60   ~ 0
-ROW12
-Text Label 12850 5250 2    60   ~ 0
-ROW13
-Text Label 12850 5350 2    60   ~ 0
-ROW14
-Text Label 12850 5450 2    60   ~ 0
-ROW15
-Text Label 12850 5550 2    60   ~ 0
-ROW16
-Text Label 12850 5650 2    60   ~ 0
+Text Label 11300 6150 0    60   ~ 0
 COL1
-Text Label 12850 5750 2    60   ~ 0
+Text Label 10800 6150 2    60   ~ 0
 COL2
-Text Label 12850 5850 2    60   ~ 0
+Text Label 11300 6250 0    60   ~ 0
 COL3
-Text Label 12850 5950 2    60   ~ 0
+Text Label 10800 6250 2    60   ~ 0
 COL4
-Text Label 12850 6050 2    60   ~ 0
+Text Label 11300 6350 0    60   ~ 0
 COL5
-Text Label 12850 6150 2    60   ~ 0
+Text Label 10800 6350 2    60   ~ 0
 COL6
-Text Label 12850 6250 2    60   ~ 0
+Text Label 11300 6450 0    60   ~ 0
 COL7
-Text Label 12850 6350 2    60   ~ 0
+Text Label 10800 6450 2    60   ~ 0
 COL8
-Text Label 12850 6450 2    60   ~ 0
+Text Label 11300 6550 0    60   ~ 0
 COL9
-Text Label 12850 6550 2    60   ~ 0
+Text Label 10800 6550 2    60   ~ 0
 COL10
-Text Label 12850 6650 2    60   ~ 0
+Text Label 11300 6650 0    60   ~ 0
 COL11
-Text Label 12850 6750 2    60   ~ 0
+Text Label 10800 6650 2    60   ~ 0
 COL12
-Text Label 12850 6850 2    60   ~ 0
+Text Label 11300 6750 0    60   ~ 0
 COL13
-Text Label 12850 6950 2    60   ~ 0
+Text Label 10800 6750 2    60   ~ 0
 COL14
-Text Label 12850 7050 2    60   ~ 0
+Text Label 11300 6850 0    60   ~ 0
 COL15
-Text Label 12850 7150 2    60   ~ 0
+Text Label 10800 6850 2    60   ~ 0
 COL16
-Text Label 13350 4050 0    60   ~ 0
+Text Label 11300 6950 0    60   ~ 0
 COL17
-Text Label 13350 4150 0    60   ~ 0
+Text Label 10800 6950 2    60   ~ 0
 COL18
-Text Label 13350 4250 0    60   ~ 0
+Text Label 11300 7050 0    60   ~ 0
 COL19
-Text Label 13350 4350 0    60   ~ 0
+Text Label 10800 7050 2    60   ~ 0
 COL20
-Text Label 13350 4450 0    60   ~ 0
+Text Label 11300 7150 0    60   ~ 0
 COL21
-Text Label 13350 4550 0    60   ~ 0
+Text Label 10800 7150 2    60   ~ 0
 COL22
-Text Label 13350 4650 0    60   ~ 0
+Text Label 11300 7250 0    60   ~ 0
 COL23
-Text Label 13350 4750 0    60   ~ 0
+Text Label 10800 7250 2    60   ~ 0
 COL24
-Text Label 13350 4850 0    60   ~ 0
+Text Label 11300 7350 0    60   ~ 0
 COL25
-Text Label 13350 4950 0    60   ~ 0
+Text Label 10800 7350 2    60   ~ 0
 COL26
-Text Label 13350 5050 0    60   ~ 0
+Text Label 11300 7450 0    60   ~ 0
 COL27
-Text Label 13350 5150 0    60   ~ 0
+Text Label 10800 7450 2    60   ~ 0
 COL28
-Text Label 3350 5850 0    60   ~ 0
-ROW8
-Text Label 3350 5250 0    60   ~ 0
-ROW7
-Text Label 3350 4650 0    60   ~ 0
-ROW6
-Text Label 3350 4050 0    60   ~ 0
-ROW5
-Text Label 3350 3450 0    60   ~ 0
-ROW4
-Text Label 3350 2850 0    60   ~ 0
-ROW3
-Text Label 3350 2250 0    60   ~ 0
-ROW2
-Text Label 3350 1650 0    60   ~ 0
-ROW1
+Text Label 2500 2150 0    60   ~ 0
+R10+
+Text Label 2500 2750 0    60   ~ 0
+R6+
+Text Label 2500 3350 0    60   ~ 0
+R2+
+Text Label 1800 3550 2    60   ~ 0
+R4+
+Text Label 2500 3950 0    60   ~ 0
+R3+
+Text Label 1800 4150 2    60   ~ 0
+R1+
+Text Label 2500 4550 0    60   ~ 0
+R7+
+Text Label 1800 4750 2    60   ~ 0
+R5+
+Text Label 2500 5150 0    60   ~ 0
+R11+
+Text Label 1800 5350 2    60   ~ 0
+R9+
+Text Label 2500 5750 0    60   ~ 0
+R15+
+Text Label 1800 5950 2    60   ~ 0
+R13+
+Text Label 1800 6350 2    60   ~ 0
+R16-
+Text Label 2500 6550 0    60   ~ 0
+R14-
+Text Label 1800 6950 2    60   ~ 0
+R12-
+Text Label 2500 7150 0    60   ~ 0
+R10-
+Text Label 1800 7550 2    60   ~ 0
+R8-
+Text Label 2500 7750 0    60   ~ 0
+R6-
+Text Label 1800 8150 2    60   ~ 0
+R4-
+Text Label 2500 8350 0    60   ~ 0
+R2-
+Text Label 1800 8750 2    60   ~ 0
+R1-
+Text Label 2500 8950 0    60   ~ 0
+R3-
+Text Label 1800 9350 2    60   ~ 0
+R5-
+Text Label 2500 9550 0    60   ~ 0
+R7-
+Text Label 1800 9950 2    60   ~ 0
+R9-
+Text Label 2500 10150 0    60   ~ 0
+R11-
+Text Label 1800 10550 2    60   ~ 0
+R13-
+Text Label 2500 10750 0    60   ~ 0
+R15-
+Text Label 11300 6050 0    60   ~ 0
+R16+
+Text Label 11300 5950 0    60   ~ 0
+R14+
+Text Label 11300 5850 0    60   ~ 0
+R12+
+Text Label 11300 5750 0    60   ~ 0
+R10+
+Text Label 11300 5650 0    60   ~ 0
+R8+
+Text Label 11300 5550 0    60   ~ 0
+R6+
+Text Label 11300 5450 0    60   ~ 0
+R4+
+Text Label 11300 5350 0    60   ~ 0
+R2+
+Text Label 11300 5250 0    60   ~ 0
+R1+
+Text Label 11300 5150 0    60   ~ 0
+R3+
+Text Label 11300 5050 0    60   ~ 0
+R5+
+Text Label 11300 4950 0    60   ~ 0
+R7+
+Text Label 11300 4850 0    60   ~ 0
+R9+
+Text Label 11300 4750 0    60   ~ 0
+R11+
+Text Label 11300 4650 0    60   ~ 0
+R13+
+Text Label 11300 4550 0    60   ~ 0
+R15+
+Text Label 10800 6050 2    60   ~ 0
+R16-
+Text Label 10800 5950 2    60   ~ 0
+R14-
+Text Label 10800 5850 2    60   ~ 0
+R12-
+Text Label 10800 5750 2    60   ~ 0
+R10-
+Text Label 10800 5650 2    60   ~ 0
+R8-
+Text Label 10800 5550 2    60   ~ 0
+R6-
+Text Label 10800 5450 2    60   ~ 0
+R4-
+Text Label 10800 5350 2    60   ~ 0
+R2-
+Text Label 10800 5250 2    60   ~ 0
+R1-
+Text Label 10800 5150 2    60   ~ 0
+R3-
+Text Label 10800 5050 2    60   ~ 0
+R5-
+Text Label 10800 4950 2    60   ~ 0
+R7-
+Text Label 10800 4850 2    60   ~ 0
+R9-
+Text Label 10800 4750 2    60   ~ 0
+R11-
+Text Label 10800 4650 2    60   ~ 0
+R13-
+Text Label 10800 4550 2    60   ~ 0
+R15-
+NoConn ~ 11300 4350
+NoConn ~ 11300 4450
+NoConn ~ 10800 4350
+NoConn ~ 10800 4450
+Wire Wire Line
+	1300 1550 1800 1550
+Connection ~ 1300 1550
+Text Label 1800 1750 2    60   ~ 0
+R16+
+Text Label 2500 1550 0    60   ~ 0
+R14+
+Wire Wire Line
+	2500 1750 3350 1750
+Wire Wire Line
+	3350 1350 3350 5950
+Text HLabel 3350 1350 2    60   Input ~ 0
+FLIP+
+Connection ~ 3350 1750
+Wire Wire Line
+	1300 2150 1800 2150
+Connection ~ 1300 2150
+Text Label 1800 2350 2    60   ~ 0
+R12+
+Connection ~ 3350 2350
+Text Label 1800 2950 2    60   ~ 0
+R8+
+Wire Wire Line
+	1300 2750 1800 2750
+Connection ~ 1300 2750
+Connection ~ 3350 2950
+Wire Wire Line
+	1800 3350 1300 3350
+Connection ~ 1300 3350
+Wire Wire Line
+	1300 3950 1800 3950
+Connection ~ 1300 3950
+Connection ~ 3350 3550
+Connection ~ 3350 4150
+Wire Wire Line
+	1300 4550 1800 4550
+Connection ~ 1300 4550
+Connection ~ 3350 4750
+Wire Wire Line
+	1300 5150 1800 5150
+Wire Wire Line
+	1300 5750 1800 5750
+Connection ~ 1300 5150
+Connection ~ 1300 5750
+Connection ~ 3350 5350
+Connection ~ 1300 10750
+Wire Wire Line
+	3250 6350 3250 10800
+Connection ~ 3250 6950
+Connection ~ 3250 7550
+Connection ~ 3250 8150
+Connection ~ 3250 8750
+Connection ~ 3250 9350
+Connection ~ 3250 9950
+Connection ~ 3250 10550
 $Comp
-L R_Small R1
-U 1 1 598A372C
-P 3150 1650
-F 0 "R1" H 3180 1670 50  0000 L CNN
-F 1 "R_Small" H 3180 1610 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 1650 50  0001 C CNN
-F 3 "" H 3150 1650 50  0001 C CNN
-	1    3150 1650
-	0    -1   -1   0   
+L GND #PWR?
+U 1 1 59A75F8A
+P 3250 10800
+F 0 "#PWR?" H 3250 10550 50  0001 C CNN
+F 1 "GND" H 3250 10650 50  0000 C CNN
+F 2 "" H 3250 10800 50  0001 C CNN
+F 3 "" H 3250 10800 50  0001 C CNN
+	1    3250 10800
+	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3000 1650 3050 1650
-Wire Wire Line
-	3250 1650 3350 1650
-$Comp
-L R_Small R2
-U 1 1 598A436C
-P 3150 2250
-F 0 "R2" H 3180 2270 50  0000 L CNN
-F 1 "R_Small" H 3180 2210 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 2250 50  0001 C CNN
-F 3 "" H 3150 2250 50  0001 C CNN
-	1    3150 2250
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 2250 3050 2250
-Wire Wire Line
-	3250 2250 3350 2250
-$Comp
-L R_Small R3
-U 1 1 598A4B27
-P 3150 2850
-F 0 "R3" H 3180 2870 50  0000 L CNN
-F 1 "R_Small" H 3180 2810 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 2850 50  0001 C CNN
-F 3 "" H 3150 2850 50  0001 C CNN
-	1    3150 2850
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 2850 3050 2850
-Wire Wire Line
-	3250 2850 3350 2850
-$Comp
-L R_Small R4
-U 1 1 598A5840
-P 3150 3450
-F 0 "R4" H 3180 3470 50  0000 L CNN
-F 1 "R_Small" H 3180 3410 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 3450 50  0001 C CNN
-F 3 "" H 3150 3450 50  0001 C CNN
-	1    3150 3450
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 3450 3050 3450
-Wire Wire Line
-	3250 3450 3350 3450
-$Comp
-L R_Small R5
-U 1 1 598A5F8F
-P 3150 4050
-F 0 "R5" H 3180 4070 50  0000 L CNN
-F 1 "R_Small" H 3180 4010 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 4050 50  0001 C CNN
-F 3 "" H 3150 4050 50  0001 C CNN
-	1    3150 4050
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 4050 3050 4050
-Wire Wire Line
-	3250 4050 3350 4050
-$Comp
-L R_Small R6
-U 1 1 598A6A74
-P 3150 4650
-F 0 "R6" H 3180 4670 50  0000 L CNN
-F 1 "R_Small" H 3180 4610 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 4650 50  0001 C CNN
-F 3 "" H 3150 4650 50  0001 C CNN
-	1    3150 4650
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 4650 3050 4650
-Wire Wire Line
-	3250 4650 3350 4650
-$Comp
-L R_Small R7
-U 1 1 598A7068
-P 3150 5250
-F 0 "R7" H 3180 5270 50  0000 L CNN
-F 1 "R_Small" H 3180 5210 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 5250 50  0001 C CNN
-F 3 "" H 3150 5250 50  0001 C CNN
-	1    3150 5250
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 5250 3050 5250
-Wire Wire Line
-	3250 5250 3350 5250
-$Comp
-L R_Small R8
-U 1 1 598A7AAF
-P 3150 5850
-F 0 "R8" H 3180 5870 50  0000 L CNN
-F 1 "R_Small" H 3180 5810 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 5850 50  0001 C CNN
-F 3 "" H 3150 5850 50  0001 C CNN
-	1    3150 5850
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 5850 3050 5850
-Wire Wire Line
-	3250 5850 3350 5850
-$Comp
-L R_Small R9
-U 1 1 598A8350
-P 3150 6450
-F 0 "R9" H 3180 6470 50  0000 L CNN
-F 1 "R_Small" H 3180 6410 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 6450 50  0001 C CNN
-F 3 "" H 3150 6450 50  0001 C CNN
-	1    3150 6450
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 6450 3050 6450
-Wire Wire Line
-	3250 6450 3350 6450
-$Comp
-L R_Small R10
-U 1 1 598A8C3D
-P 3150 7050
-F 0 "R10" H 3180 7070 50  0000 L CNN
-F 1 "R_Small" H 3180 7010 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 7050 50  0001 C CNN
-F 3 "" H 3150 7050 50  0001 C CNN
-	1    3150 7050
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 7050 3050 7050
-Wire Wire Line
-	3250 7050 3350 7050
-$Comp
-L R_Small R12
-U 1 1 598AA1F1
-P 3150 8250
-F 0 "R12" H 3180 8270 50  0000 L CNN
-F 1 "R_Small" H 3180 8210 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 8250 50  0001 C CNN
-F 3 "" H 3150 8250 50  0001 C CNN
-	1    3150 8250
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 7650 3050 7650
-Wire Wire Line
-	3250 7650 3350 7650
-Wire Wire Line
-	3000 8250 3050 8250
-Wire Wire Line
-	3250 8250 3350 8250
-$Comp
-L R_Small R11
-U 1 1 598AACA0
-P 3150 7650
-F 0 "R11" H 3180 7670 50  0000 L CNN
-F 1 "R_Small" H 3180 7610 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 7650 50  0001 C CNN
-F 3 "" H 3150 7650 50  0001 C CNN
-	1    3150 7650
-	0    -1   -1   0   
-$EndComp
-$Comp
-L R_Small R13
-U 1 1 598AB49B
-P 3150 8850
-F 0 "R13" H 3180 8870 50  0000 L CNN
-F 1 "R_Small" H 3180 8810 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 8850 50  0001 C CNN
-F 3 "" H 3150 8850 50  0001 C CNN
-	1    3150 8850
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 8850 3050 8850
-Wire Wire Line
-	3250 8850 3350 8850
-$Comp
-L R_Small R14
-U 1 1 598ABD01
-P 3150 9450
-F 0 "R14" H 3180 9470 50  0000 L CNN
-F 1 "R_Small" H 3180 9410 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 9450 50  0001 C CNN
-F 3 "" H 3150 9450 50  0001 C CNN
-	1    3150 9450
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 9450 3050 9450
-Wire Wire Line
-	3250 9450 3350 9450
-$Comp
-L R_Small R15
-U 1 1 598AC5B5
-P 3150 10050
-F 0 "R15" H 3180 10070 50  0000 L CNN
-F 1 "R_Small" H 3180 10010 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 10050 50  0001 C CNN
-F 3 "" H 3150 10050 50  0001 C CNN
-	1    3150 10050
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 10050 3050 10050
-Wire Wire Line
-	3250 10050 3350 10050
-$Comp
-L R_Small R16
-U 1 1 598ACE43
-P 3150 10650
-F 0 "R16" H 3180 10670 50  0000 L CNN
-F 1 "R_Small" H 3180 10610 50  0000 L CNN
-F 2 "Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal" H 3150 10650 50  0001 C CNN
-F 3 "" H 3150 10650 50  0001 C CNN
-	1    3150 10650
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	3000 10650 3050 10650
-Wire Wire Line
-	3250 10650 3350 10650
 $EndSCHEMATC
