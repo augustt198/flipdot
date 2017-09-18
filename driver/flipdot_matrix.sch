@@ -521,6 +521,379 @@ F 3 "" H 6300 9700 50  0001 C CNN
 	1    6300 9700
 	1    0    0    -1  
 $EndComp
+Text Label 4150 1650 0    60   ~ 0
+COL1
+Text Label 4150 2250 0    60   ~ 0
+COL2
+Text Label 4150 2850 0    60   ~ 0
+COL3
+Text Label 4150 3450 0    60   ~ 0
+COL4
+Text Label 4150 4050 0    60   ~ 0
+COL5
+Text Label 4150 4650 0    60   ~ 0
+COL6
+Text Label 4150 5250 0    60   ~ 0
+COL7
+Text Label 4150 5850 0    60   ~ 0
+COL8
+Text Label 4150 6450 0    60   ~ 0
+COL9
+Text Label 4150 7050 0    60   ~ 0
+COL10
+Text Label 4150 7650 0    60   ~ 0
+COL11
+Text Label 4150 8250 0    60   ~ 0
+COL12
+Text Label 4150 8850 0    60   ~ 0
+COL13
+Text Label 4150 9450 0    60   ~ 0
+COL14
+$Comp
+L DUAL_NPN_MOSFET Q3
+U 1 1 598AC5ED
+P 8450 1450
+F 0 "Q3" H 8450 1050 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 1450 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 1450 60  0001 C CNN
+F 3 "" H 8450 1450 60  0001 C CNN
+	1    8450 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q6
+U 1 1 598AC5F3
+P 8450 2050
+F 0 "Q6" H 8450 1650 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 2050 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 2050 60  0001 C CNN
+F 3 "" H 8450 2050 60  0001 C CNN
+	1    8450 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q9
+U 1 1 598AC5F9
+P 8450 2650
+F 0 "Q9" H 8450 2250 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 2650 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 2650 60  0001 C CNN
+F 3 "" H 8450 2650 60  0001 C CNN
+	1    8450 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q12
+U 1 1 598AC5FF
+P 8450 3250
+F 0 "Q12" H 8450 2850 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 3250 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 3250 60  0001 C CNN
+F 3 "" H 8450 3250 60  0001 C CNN
+	1    8450 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q15
+U 1 1 598AC605
+P 8450 3850
+F 0 "Q15" H 8450 3450 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 3850 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 3850 60  0001 C CNN
+F 3 "" H 8450 3850 60  0001 C CNN
+	1    8450 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q18
+U 1 1 598AC60B
+P 8450 4450
+F 0 "Q18" H 8450 4050 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 4450 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 4450 60  0001 C CNN
+F 3 "" H 8450 4450 60  0001 C CNN
+	1    8450 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q21
+U 1 1 598AC611
+P 8450 5050
+F 0 "Q21" H 8450 4650 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 5050 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 5050 60  0001 C CNN
+F 3 "" H 8450 5050 60  0001 C CNN
+	1    8450 5050
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q24
+U 1 1 598AC617
+P 8450 5650
+F 0 "Q24" H 8450 5250 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 5650 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 5650 60  0001 C CNN
+F 3 "" H 8450 5650 60  0001 C CNN
+	1    8450 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q27
+U 1 1 598AC61D
+P 8450 6250
+F 0 "Q27" H 8450 5850 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 6250 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 6250 60  0001 C CNN
+F 3 "" H 8450 6250 60  0001 C CNN
+	1    8450 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q30
+U 1 1 598AC623
+P 8450 6850
+F 0 "Q30" H 8450 6450 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 6850 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 6850 60  0001 C CNN
+F 3 "" H 8450 6850 60  0001 C CNN
+	1    8450 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q33
+U 1 1 598AC629
+P 8450 7450
+F 0 "Q33" H 8450 7050 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 7450 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 7450 60  0001 C CNN
+F 3 "" H 8450 7450 60  0001 C CNN
+	1    8450 7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q36
+U 1 1 598AC62F
+P 8450 8050
+F 0 "Q36" H 8450 7650 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 8050 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 8050 60  0001 C CNN
+F 3 "" H 8450 8050 60  0001 C CNN
+	1    8450 8050
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q39
+U 1 1 598AC635
+P 8450 8650
+F 0 "Q39" H 8450 8250 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 8650 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 8650 60  0001 C CNN
+F 3 "" H 8450 8650 60  0001 C CNN
+	1    8450 8650
+	1    0    0    -1  
+$EndComp
+$Comp
+L DUAL_NPN_MOSFET Q42
+U 1 1 598AC63B
+P 8450 9250
+F 0 "Q42" H 8450 8850 60  0000 C CNN
+F 1 "DUAL_NPN_MOSFET" H 8450 9250 60  0000 C CNN
+F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 9250 60  0001 C CNN
+F 3 "" H 8450 9250 60  0001 C CNN
+	1    8450 9250
+	1    0    0    -1  
+$EndComp
+Text HLabel 8800 1650 2    60   Input ~ 0
+COL15+
+Text HLabel 8100 1650 0    60   Input ~ 0
+COL15-
+Text HLabel 8800 2250 2    60   Input ~ 0
+COL16+
+Text HLabel 8100 2250 0    60   Input ~ 0
+COL16-
+Text HLabel 8800 2850 2    60   Input ~ 0
+COL17+
+Text HLabel 8800 3450 2    60   Input ~ 0
+COL18+
+Text HLabel 8100 2850 0    60   Input ~ 0
+COL17-
+Text HLabel 8100 3450 0    60   Input ~ 0
+COL18-
+Text HLabel 8100 4050 0    60   Input ~ 0
+COL19-
+Text HLabel 8800 4050 2    60   Input ~ 0
+COL19+
+Text HLabel 8800 4650 2    60   Input ~ 0
+COL20+
+Text HLabel 8100 4650 0    60   Input ~ 0
+COL20-
+Text HLabel 8100 5250 0    60   Input ~ 0
+COL21-
+Text HLabel 8800 5250 2    60   Input ~ 0
+COL21+
+Text HLabel 8100 5850 0    60   Input ~ 0
+COL22-
+Text HLabel 8800 5850 2    60   Input ~ 0
+COL22+
+Text HLabel 8800 6450 2    60   Input ~ 0
+COL23+
+Text HLabel 8100 6450 0    60   Input ~ 0
+COL23-
+Text HLabel 8100 7050 0    60   Input ~ 0
+COL24-
+Text HLabel 8100 7650 0    60   Input ~ 0
+COL25-
+Text HLabel 8800 7050 2    60   Input ~ 0
+COL24+
+Text HLabel 8800 7650 2    60   Input ~ 0
+COL25+
+Text HLabel 8800 8250 2    60   Input ~ 0
+COL26+
+Text HLabel 8100 8250 0    60   Input ~ 0
+COL26-
+Text HLabel 8800 8850 2    60   Input ~ 0
+COL27+
+Text HLabel 8800 9450 2    60   Input ~ 0
+COL28+
+Text HLabel 8100 8850 0    60   Input ~ 0
+COL27-
+Text HLabel 8100 9450 0    60   Input ~ 0
+COL28-
+Text HLabel 9550 1200 0    60   Input ~ 0
+FLIP+
+$Comp
+L GND #PWR045
+U 1 1 598AC65E
+P 9450 9700
+F 0 "#PWR045" H 9450 9450 50  0001 C CNN
+F 1 "GND" H 9450 9550 50  0000 C CNN
+F 2 "" H 9450 9700 50  0001 C CNN
+F 3 "" H 9450 9700 50  0001 C CNN
+	1    9450 9700
+	1    0    0    -1  
+$EndComp
+Text Label 7300 1650 0    60   ~ 0
+COL15
+Text Label 7300 2250 0    60   ~ 0
+COL16
+Text Label 7300 2850 0    60   ~ 0
+COL17
+Text Label 7300 3450 0    60   ~ 0
+COL18
+Text Label 7300 4050 0    60   ~ 0
+COL19
+Text Label 7300 4650 0    60   ~ 0
+COL20
+Text Label 7300 5250 0    60   ~ 0
+COL21
+Text Label 7300 5850 0    60   ~ 0
+COL22
+Text Label 7300 6450 0    60   ~ 0
+COL23
+Text Label 7300 7050 0    60   ~ 0
+COL24
+Text Label 7300 7650 0    60   ~ 0
+COL25
+Text Label 7300 8250 0    60   ~ 0
+COL26
+Text Label 7300 8850 0    60   ~ 0
+COL27
+Text Label 7300 9450 0    60   ~ 0
+COL28
+Text Label 2500 2150 0    60   ~ 0
+R10+
+Text Label 2500 2750 0    60   ~ 0
+R6+
+Text Label 2500 3350 0    60   ~ 0
+R2+
+Text Label 1800 3550 2    60   ~ 0
+R4+
+Text Label 2500 3950 0    60   ~ 0
+R3+
+Text Label 1800 4150 2    60   ~ 0
+R1+
+Text Label 2500 4550 0    60   ~ 0
+R7+
+Text Label 1800 4750 2    60   ~ 0
+R5+
+Text Label 2500 5150 0    60   ~ 0
+R11+
+Text Label 1800 5350 2    60   ~ 0
+R9+
+Text Label 2500 5750 0    60   ~ 0
+R15+
+Text Label 1800 5950 2    60   ~ 0
+R13+
+Text Label 1800 6350 2    60   ~ 0
+R16-
+Text Label 2500 6550 0    60   ~ 0
+R14-
+Text Label 1800 6950 2    60   ~ 0
+R12-
+Text Label 2500 7150 0    60   ~ 0
+R10-
+Text Label 1800 7550 2    60   ~ 0
+R8-
+Text Label 2500 7750 0    60   ~ 0
+R6-
+Text Label 1800 8150 2    60   ~ 0
+R4-
+Text Label 2500 8350 0    60   ~ 0
+R2-
+Text Label 1800 8750 2    60   ~ 0
+R1-
+Text Label 2500 8950 0    60   ~ 0
+R3-
+Text Label 1800 9350 2    60   ~ 0
+R5-
+Text Label 2500 9550 0    60   ~ 0
+R7-
+Text Label 1800 9950 2    60   ~ 0
+R9-
+Text Label 2500 10150 0    60   ~ 0
+R11-
+Text Label 1800 10550 2    60   ~ 0
+R13-
+Text Label 2500 10750 0    60   ~ 0
+R15-
+Text Label 1800 1750 2    60   ~ 0
+R16+
+Text Label 2500 1550 0    60   ~ 0
+R14+
+Text HLabel 3350 1350 2    60   Input ~ 0
+FLIP+
+Text Label 1800 2350 2    60   ~ 0
+R12+
+Text Label 1800 2950 2    60   ~ 0
+R8+
+$Comp
+L GND #PWR046
+U 1 1 59A75F8A
+P 3250 10800
+F 0 "#PWR046" H 3250 10550 50  0001 C CNN
+F 1 "GND" H 3250 10650 50  0000 C CNN
+F 2 "" H 3250 10800 50  0001 C CNN
+F 3 "" H 3250 10800 50  0001 C CNN
+	1    3250 10800
+	1    0    0    -1  
+$EndComp
+$Comp
+L C96ABC J10
+U 1 1 59BFED65
+P 13000 6000
+F 0 "J10" H 13000 10900 50  0000 C CNN
+F 1 "C96ABC" V 13250 6000 50  0000 C CNN
+F 2 "Connectors:C96ABCMD" H 13000 6000 50  0001 C CNN
+F 3 "" H 13000 6000 50  0001 C CNN
+	1    13000 6000
+	1    0    0    -1  
+$EndComp
+NoConn ~ 12500 1250
+NoConn ~ 12500 1350
+NoConn ~ 12500 1450
+NoConn ~ 12500 1550
+NoConn ~ 12500 1650
+NoConn ~ 12500 1750
 Wire Wire Line
 	3350 2350 2500 2350
 Wire Wire Line
@@ -791,257 +1164,6 @@ Connection ~ 4450 8850
 Wire Wire Line
 	4450 9450 4150 9450
 Connection ~ 4450 9450
-Text Label 4150 1650 0    60   ~ 0
-COL1
-Text Label 4150 2250 0    60   ~ 0
-COL2
-Text Label 4150 2850 0    60   ~ 0
-COL3
-Text Label 4150 3450 0    60   ~ 0
-COL4
-Text Label 4150 4050 0    60   ~ 0
-COL5
-Text Label 4150 4650 0    60   ~ 0
-COL6
-Text Label 4150 5250 0    60   ~ 0
-COL7
-Text Label 4150 5850 0    60   ~ 0
-COL8
-Text Label 4150 6450 0    60   ~ 0
-COL9
-Text Label 4150 7050 0    60   ~ 0
-COL10
-Text Label 4150 7650 0    60   ~ 0
-COL11
-Text Label 4150 8250 0    60   ~ 0
-COL12
-Text Label 4150 8850 0    60   ~ 0
-COL13
-Text Label 4150 9450 0    60   ~ 0
-COL14
-$Comp
-L DUAL_NPN_MOSFET Q3
-U 1 1 598AC5ED
-P 8450 1450
-F 0 "Q3" H 8450 1050 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 1450 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 1450 60  0001 C CNN
-F 3 "" H 8450 1450 60  0001 C CNN
-	1    8450 1450
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q6
-U 1 1 598AC5F3
-P 8450 2050
-F 0 "Q6" H 8450 1650 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 2050 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 2050 60  0001 C CNN
-F 3 "" H 8450 2050 60  0001 C CNN
-	1    8450 2050
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q9
-U 1 1 598AC5F9
-P 8450 2650
-F 0 "Q9" H 8450 2250 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 2650 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 2650 60  0001 C CNN
-F 3 "" H 8450 2650 60  0001 C CNN
-	1    8450 2650
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q12
-U 1 1 598AC5FF
-P 8450 3250
-F 0 "Q12" H 8450 2850 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 3250 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 3250 60  0001 C CNN
-F 3 "" H 8450 3250 60  0001 C CNN
-	1    8450 3250
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q15
-U 1 1 598AC605
-P 8450 3850
-F 0 "Q15" H 8450 3450 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 3850 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 3850 60  0001 C CNN
-F 3 "" H 8450 3850 60  0001 C CNN
-	1    8450 3850
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q18
-U 1 1 598AC60B
-P 8450 4450
-F 0 "Q18" H 8450 4050 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 4450 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 4450 60  0001 C CNN
-F 3 "" H 8450 4450 60  0001 C CNN
-	1    8450 4450
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q21
-U 1 1 598AC611
-P 8450 5050
-F 0 "Q21" H 8450 4650 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 5050 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 5050 60  0001 C CNN
-F 3 "" H 8450 5050 60  0001 C CNN
-	1    8450 5050
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q24
-U 1 1 598AC617
-P 8450 5650
-F 0 "Q24" H 8450 5250 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 5650 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 5650 60  0001 C CNN
-F 3 "" H 8450 5650 60  0001 C CNN
-	1    8450 5650
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q27
-U 1 1 598AC61D
-P 8450 6250
-F 0 "Q27" H 8450 5850 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 6250 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 6250 60  0001 C CNN
-F 3 "" H 8450 6250 60  0001 C CNN
-	1    8450 6250
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q30
-U 1 1 598AC623
-P 8450 6850
-F 0 "Q30" H 8450 6450 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 6850 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 6850 60  0001 C CNN
-F 3 "" H 8450 6850 60  0001 C CNN
-	1    8450 6850
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q33
-U 1 1 598AC629
-P 8450 7450
-F 0 "Q33" H 8450 7050 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 7450 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 7450 60  0001 C CNN
-F 3 "" H 8450 7450 60  0001 C CNN
-	1    8450 7450
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q36
-U 1 1 598AC62F
-P 8450 8050
-F 0 "Q36" H 8450 7650 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 8050 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 8050 60  0001 C CNN
-F 3 "" H 8450 8050 60  0001 C CNN
-	1    8450 8050
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q39
-U 1 1 598AC635
-P 8450 8650
-F 0 "Q39" H 8450 8250 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 8650 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 8650 60  0001 C CNN
-F 3 "" H 8450 8650 60  0001 C CNN
-	1    8450 8650
-	1    0    0    -1  
-$EndComp
-$Comp
-L DUAL_NPN_MOSFET Q42
-U 1 1 598AC63B
-P 8450 9250
-F 0 "Q42" H 8450 8850 60  0000 C CNN
-F 1 "DUAL_NPN_MOSFET" H 8450 9250 60  0000 C CNN
-F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 8450 9250 60  0001 C CNN
-F 3 "" H 8450 9250 60  0001 C CNN
-	1    8450 9250
-	1    0    0    -1  
-$EndComp
-Text HLabel 8800 1650 2    60   Input ~ 0
-COL15+
-Text HLabel 8100 1650 0    60   Input ~ 0
-COL15-
-Text HLabel 8800 2250 2    60   Input ~ 0
-COL16+
-Text HLabel 8100 2250 0    60   Input ~ 0
-COL16-
-Text HLabel 8800 2850 2    60   Input ~ 0
-COL17+
-Text HLabel 8800 3450 2    60   Input ~ 0
-COL18+
-Text HLabel 8100 2850 0    60   Input ~ 0
-COL17-
-Text HLabel 8100 3450 0    60   Input ~ 0
-COL18-
-Text HLabel 8100 4050 0    60   Input ~ 0
-COL19-
-Text HLabel 8800 4050 2    60   Input ~ 0
-COL19+
-Text HLabel 8800 4650 2    60   Input ~ 0
-COL20+
-Text HLabel 8100 4650 0    60   Input ~ 0
-COL20-
-Text HLabel 8100 5250 0    60   Input ~ 0
-COL21-
-Text HLabel 8800 5250 2    60   Input ~ 0
-COL21+
-Text HLabel 8100 5850 0    60   Input ~ 0
-COL22-
-Text HLabel 8800 5850 2    60   Input ~ 0
-COL22+
-Text HLabel 8800 6450 2    60   Input ~ 0
-COL23+
-Text HLabel 8100 6450 0    60   Input ~ 0
-COL23-
-Text HLabel 8100 7050 0    60   Input ~ 0
-COL24-
-Text HLabel 8100 7650 0    60   Input ~ 0
-COL25-
-Text HLabel 8800 7050 2    60   Input ~ 0
-COL24+
-Text HLabel 8800 7650 2    60   Input ~ 0
-COL25+
-Text HLabel 8800 8250 2    60   Input ~ 0
-COL26+
-Text HLabel 8100 8250 0    60   Input ~ 0
-COL26-
-Text HLabel 8800 8850 2    60   Input ~ 0
-COL27+
-Text HLabel 8800 9450 2    60   Input ~ 0
-COL28+
-Text HLabel 8100 8850 0    60   Input ~ 0
-COL27-
-Text HLabel 8100 9450 0    60   Input ~ 0
-COL28-
-Text HLabel 9550 1200 0    60   Input ~ 0
-FLIP+
-$Comp
-L GND #PWR045
-U 1 1 598AC65E
-P 9450 9700
-F 0 "#PWR045" H 9450 9450 50  0001 C CNN
-F 1 "GND" H 9450 9550 50  0000 C CNN
-F 2 "" H 9450 9700 50  0001 C CNN
-F 3 "" H 9450 9700 50  0001 C CNN
-	1    9450 9700
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	8100 1550 7600 1550
 Wire Wire Line
@@ -1255,247 +1377,18 @@ Connection ~ 7600 8850
 Wire Wire Line
 	7600 9450 7300 9450
 Connection ~ 7600 9450
-Text Label 7300 1650 0    60   ~ 0
-COL15
-Text Label 7300 2250 0    60   ~ 0
-COL16
-Text Label 7300 2850 0    60   ~ 0
-COL17
-Text Label 7300 3450 0    60   ~ 0
-COL18
-Text Label 7300 4050 0    60   ~ 0
-COL19
-Text Label 7300 4650 0    60   ~ 0
-COL20
-Text Label 7300 5250 0    60   ~ 0
-COL21
-Text Label 7300 5850 0    60   ~ 0
-COL22
-Text Label 7300 6450 0    60   ~ 0
-COL23
-Text Label 7300 7050 0    60   ~ 0
-COL24
-Text Label 7300 7650 0    60   ~ 0
-COL25
-Text Label 7300 8250 0    60   ~ 0
-COL26
-Text Label 7300 8850 0    60   ~ 0
-COL27
-Text Label 7300 9450 0    60   ~ 0
-COL28
-$Comp
-L CONN_02X32 J2
-U 1 1 598AFF7E
-P 11050 5900
-F 0 "J2" H 11050 7550 50  0000 C CNN
-F 1 "CONN_02X32" V 11050 5900 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x32_Pitch2.54mm" H 11050 5500 50  0001 C CNN
-F 3 "" H 11050 5500 50  0001 C CNN
-	1    11050 5900
-	1    0    0    -1  
-$EndComp
-Text Label 11300 6150 0    60   ~ 0
-COL1
-Text Label 10800 6150 2    60   ~ 0
-COL2
-Text Label 11300 6250 0    60   ~ 0
-COL3
-Text Label 10800 6250 2    60   ~ 0
-COL4
-Text Label 11300 6350 0    60   ~ 0
-COL5
-Text Label 10800 6350 2    60   ~ 0
-COL6
-Text Label 11300 6450 0    60   ~ 0
-COL7
-Text Label 10800 6450 2    60   ~ 0
-COL8
-Text Label 11300 6550 0    60   ~ 0
-COL9
-Text Label 10800 6550 2    60   ~ 0
-COL10
-Text Label 11300 6650 0    60   ~ 0
-COL11
-Text Label 10800 6650 2    60   ~ 0
-COL12
-Text Label 11300 6750 0    60   ~ 0
-COL13
-Text Label 10800 6750 2    60   ~ 0
-COL14
-Text Label 11300 6850 0    60   ~ 0
-COL15
-Text Label 10800 6850 2    60   ~ 0
-COL16
-Text Label 11300 6950 0    60   ~ 0
-COL17
-Text Label 10800 6950 2    60   ~ 0
-COL18
-Text Label 11300 7050 0    60   ~ 0
-COL19
-Text Label 10800 7050 2    60   ~ 0
-COL20
-Text Label 11300 7150 0    60   ~ 0
-COL21
-Text Label 10800 7150 2    60   ~ 0
-COL22
-Text Label 11300 7250 0    60   ~ 0
-COL23
-Text Label 10800 7250 2    60   ~ 0
-COL24
-Text Label 11300 7350 0    60   ~ 0
-COL25
-Text Label 10800 7350 2    60   ~ 0
-COL26
-Text Label 11300 7450 0    60   ~ 0
-COL27
-Text Label 10800 7450 2    60   ~ 0
-COL28
-Text Label 2500 2150 0    60   ~ 0
-R10+
-Text Label 2500 2750 0    60   ~ 0
-R6+
-Text Label 2500 3350 0    60   ~ 0
-R2+
-Text Label 1800 3550 2    60   ~ 0
-R4+
-Text Label 2500 3950 0    60   ~ 0
-R3+
-Text Label 1800 4150 2    60   ~ 0
-R1+
-Text Label 2500 4550 0    60   ~ 0
-R7+
-Text Label 1800 4750 2    60   ~ 0
-R5+
-Text Label 2500 5150 0    60   ~ 0
-R11+
-Text Label 1800 5350 2    60   ~ 0
-R9+
-Text Label 2500 5750 0    60   ~ 0
-R15+
-Text Label 1800 5950 2    60   ~ 0
-R13+
-Text Label 1800 6350 2    60   ~ 0
-R16-
-Text Label 2500 6550 0    60   ~ 0
-R14-
-Text Label 1800 6950 2    60   ~ 0
-R12-
-Text Label 2500 7150 0    60   ~ 0
-R10-
-Text Label 1800 7550 2    60   ~ 0
-R8-
-Text Label 2500 7750 0    60   ~ 0
-R6-
-Text Label 1800 8150 2    60   ~ 0
-R4-
-Text Label 2500 8350 0    60   ~ 0
-R2-
-Text Label 1800 8750 2    60   ~ 0
-R1-
-Text Label 2500 8950 0    60   ~ 0
-R3-
-Text Label 1800 9350 2    60   ~ 0
-R5-
-Text Label 2500 9550 0    60   ~ 0
-R7-
-Text Label 1800 9950 2    60   ~ 0
-R9-
-Text Label 2500 10150 0    60   ~ 0
-R11-
-Text Label 1800 10550 2    60   ~ 0
-R13-
-Text Label 2500 10750 0    60   ~ 0
-R15-
-Text Label 11300 6050 0    60   ~ 0
-R16+
-Text Label 11300 5950 0    60   ~ 0
-R14+
-Text Label 11300 5850 0    60   ~ 0
-R12+
-Text Label 11300 5750 0    60   ~ 0
-R10+
-Text Label 11300 5650 0    60   ~ 0
-R8+
-Text Label 11300 5550 0    60   ~ 0
-R6+
-Text Label 11300 5450 0    60   ~ 0
-R4+
-Text Label 11300 5350 0    60   ~ 0
-R2+
-Text Label 11300 5250 0    60   ~ 0
-R1+
-Text Label 11300 5150 0    60   ~ 0
-R3+
-Text Label 11300 5050 0    60   ~ 0
-R5+
-Text Label 11300 4950 0    60   ~ 0
-R7+
-Text Label 11300 4850 0    60   ~ 0
-R9+
-Text Label 11300 4750 0    60   ~ 0
-R11+
-Text Label 11300 4650 0    60   ~ 0
-R13+
-Text Label 11300 4550 0    60   ~ 0
-R15+
-Text Label 10800 6050 2    60   ~ 0
-R16-
-Text Label 10800 5950 2    60   ~ 0
-R14-
-Text Label 10800 5850 2    60   ~ 0
-R12-
-Text Label 10800 5750 2    60   ~ 0
-R10-
-Text Label 10800 5650 2    60   ~ 0
-R8-
-Text Label 10800 5550 2    60   ~ 0
-R6-
-Text Label 10800 5450 2    60   ~ 0
-R4-
-Text Label 10800 5350 2    60   ~ 0
-R2-
-Text Label 10800 5250 2    60   ~ 0
-R1-
-Text Label 10800 5150 2    60   ~ 0
-R3-
-Text Label 10800 5050 2    60   ~ 0
-R5-
-Text Label 10800 4950 2    60   ~ 0
-R7-
-Text Label 10800 4850 2    60   ~ 0
-R9-
-Text Label 10800 4750 2    60   ~ 0
-R11-
-Text Label 10800 4650 2    60   ~ 0
-R13-
-Text Label 10800 4550 2    60   ~ 0
-R15-
-NoConn ~ 11300 4350
-NoConn ~ 11300 4450
-NoConn ~ 10800 4350
-NoConn ~ 10800 4450
 Wire Wire Line
 	1300 1550 1800 1550
 Connection ~ 1300 1550
-Text Label 1800 1750 2    60   ~ 0
-R16+
-Text Label 2500 1550 0    60   ~ 0
-R14+
 Wire Wire Line
 	2500 1750 3350 1750
 Wire Wire Line
 	3350 1350 3350 5950
-Text HLabel 3350 1350 2    60   Input ~ 0
-FLIP+
 Connection ~ 3350 1750
 Wire Wire Line
 	1300 2150 1800 2150
 Connection ~ 1300 2150
-Text Label 1800 2350 2    60   ~ 0
-R12+
 Connection ~ 3350 2350
-Text Label 1800 2950 2    60   ~ 0
-R8+
 Wire Wire Line
 	1300 2750 1800 2750
 Connection ~ 1300 2750
@@ -1529,15 +1422,334 @@ Connection ~ 3250 8750
 Connection ~ 3250 9350
 Connection ~ 3250 9950
 Connection ~ 3250 10550
-$Comp
-L GND #PWR046
-U 1 1 59A75F8A
-P 3250 10800
-F 0 "#PWR046" H 3250 10550 50  0001 C CNN
-F 1 "GND" H 3250 10650 50  0000 C CNN
-F 2 "" H 3250 10800 50  0001 C CNN
-F 3 "" H 3250 10800 50  0001 C CNN
-	1    3250 10800
-	1    0    0    -1  
-$EndComp
+Wire Wire Line
+	12500 1850 12500 1950
+Wire Wire Line
+	12500 2150 12500 2250
+Wire Wire Line
+	12500 2450 12500 2550
+Wire Wire Line
+	12500 2750 12500 2850
+Wire Wire Line
+	12500 3050 12500 3150
+Wire Wire Line
+	12500 3350 12500 3450
+Wire Wire Line
+	12500 3650 12500 3750
+Wire Wire Line
+	12500 3950 12500 4050
+Wire Wire Line
+	12500 4250 12500 4350
+Wire Wire Line
+	12500 4550 12500 4650
+Wire Wire Line
+	12500 4850 12500 4950
+Wire Wire Line
+	12500 5150 12500 5250
+Wire Wire Line
+	12500 5450 12500 5550
+Wire Wire Line
+	12500 5750 12500 5850
+Wire Wire Line
+	12500 6050 12500 6150
+Wire Wire Line
+	12500 6350 12500 6450
+Wire Wire Line
+	12500 6650 12500 6750
+Wire Wire Line
+	12500 6950 12500 7050
+Wire Wire Line
+	12500 7250 12500 7350
+Wire Wire Line
+	12500 7550 12500 7650
+Wire Wire Line
+	12500 7850 12500 7950
+Wire Wire Line
+	12500 8150 12500 8250
+Wire Wire Line
+	12500 8450 12500 8550
+Wire Wire Line
+	12500 8750 12500 8850
+Wire Wire Line
+	12500 9050 12500 9150
+Wire Wire Line
+	12500 9350 12500 9450
+Wire Wire Line
+	12500 9650 12500 9750
+Wire Wire Line
+	12500 9950 12500 10050
+Wire Wire Line
+	12500 10250 12500 10350
+Wire Wire Line
+	12500 10550 12500 10650
+Wire Wire Line
+	12500 1900 12050 1900
+Connection ~ 12500 1900
+Wire Wire Line
+	12500 2050 12050 2050
+Wire Wire Line
+	12500 2200 12050 2200
+Connection ~ 12500 2200
+Wire Wire Line
+	12500 2350 12050 2350
+Wire Wire Line
+	12500 2500 12050 2500
+Connection ~ 12500 2500
+Wire Wire Line
+	12500 2650 12050 2650
+Wire Wire Line
+	12500 2800 12050 2800
+Connection ~ 12500 2800
+Wire Wire Line
+	12500 2950 12050 2950
+Wire Wire Line
+	12500 3100 12050 3100
+Connection ~ 12500 3100
+Wire Wire Line
+	12500 3250 12050 3250
+Wire Wire Line
+	12500 3400 12050 3400
+Connection ~ 12500 3400
+Wire Wire Line
+	12500 3550 12050 3550
+Wire Wire Line
+	12500 3700 12050 3700
+Connection ~ 12500 3700
+Wire Wire Line
+	12500 3850 12050 3850
+Wire Wire Line
+	12500 4000 12050 4000
+Connection ~ 12500 4000
+Wire Wire Line
+	12500 4150 12050 4150
+Wire Wire Line
+	12500 4300 12050 4300
+Connection ~ 12500 4300
+Wire Wire Line
+	12500 4450 12050 4450
+Wire Wire Line
+	12500 4600 12050 4600
+Connection ~ 12500 4600
+Wire Wire Line
+	12500 4750 12050 4750
+Wire Wire Line
+	12500 4900 12050 4900
+Connection ~ 12500 4900
+Wire Wire Line
+	12500 5050 12050 5050
+Wire Wire Line
+	12500 5200 12050 5200
+Connection ~ 12500 5200
+Wire Wire Line
+	12500 5350 12050 5350
+Wire Wire Line
+	12500 5500 12050 5500
+Connection ~ 12500 5500
+Wire Wire Line
+	12500 5650 12050 5650
+Wire Wire Line
+	12500 5800 12050 5800
+Connection ~ 12500 5800
+Wire Wire Line
+	12500 5950 12050 5950
+Wire Wire Line
+	12500 6100 12050 6100
+Connection ~ 12500 6100
+Wire Wire Line
+	12500 6250 12050 6250
+Wire Wire Line
+	12500 6400 12050 6400
+Connection ~ 12500 6400
+Wire Wire Line
+	12500 6550 12050 6550
+Wire Wire Line
+	12500 6700 12050 6700
+Connection ~ 12500 6700
+Wire Wire Line
+	12500 6850 12050 6850
+Wire Wire Line
+	12500 7000 12050 7000
+Connection ~ 12500 7000
+Wire Wire Line
+	12500 7150 12050 7150
+Wire Wire Line
+	12500 7300 12050 7300
+Connection ~ 12500 7300
+Wire Wire Line
+	12500 7450 12050 7450
+Wire Wire Line
+	12500 7600 12050 7600
+Connection ~ 12500 7600
+Wire Wire Line
+	12500 7750 12050 7750
+Wire Wire Line
+	12500 7900 12050 7900
+Connection ~ 12500 7900
+Wire Wire Line
+	12500 8050 12050 8050
+Wire Wire Line
+	12500 8200 12050 8200
+Connection ~ 12500 8200
+Wire Wire Line
+	12500 8350 12050 8350
+Wire Wire Line
+	12500 8500 12050 8500
+Connection ~ 12500 8500
+Wire Wire Line
+	12500 8650 12050 8650
+Wire Wire Line
+	12500 8800 12050 8800
+Connection ~ 12500 8800
+Wire Wire Line
+	12500 8950 12050 8950
+Wire Wire Line
+	12500 9100 12050 9100
+Connection ~ 12500 9100
+Wire Wire Line
+	12500 9250 12050 9250
+Wire Wire Line
+	12500 9400 12050 9400
+Connection ~ 12500 9400
+Wire Wire Line
+	12500 9550 12050 9550
+Wire Wire Line
+	12500 9700 12050 9700
+Connection ~ 12500 9700
+Wire Wire Line
+	12500 9850 12050 9850
+Wire Wire Line
+	12500 10000 12050 10000
+Connection ~ 12500 10000
+Wire Wire Line
+	12500 10150 12050 10150
+Wire Wire Line
+	12500 10300 12050 10300
+Connection ~ 12500 10300
+Wire Wire Line
+	12500 10450 12050 10450
+Wire Wire Line
+	12500 10600 12050 10600
+Connection ~ 12500 10600
+Wire Wire Line
+	12500 10750 12050 10750
+Text Label 12050 1900 0    60   ~ 0
+R15-
+Text Label 12050 2050 0    60   ~ 0
+R15+
+Text Label 12050 2200 0    60   ~ 0
+R13-
+Text Label 12050 2350 0    60   ~ 0
+R13+
+Text Label 12050 2500 0    60   ~ 0
+R11-
+Text Label 12050 2650 0    60   ~ 0
+R11+
+Text Label 12050 2800 0    60   ~ 0
+R9-
+Text Label 12050 2950 0    60   ~ 0
+R9+
+Text Label 12050 3100 0    60   ~ 0
+R7-
+Text Label 12050 3250 0    60   ~ 0
+R7+
+Text Label 12050 3400 0    60   ~ 0
+R5-
+Text Label 12050 3550 0    60   ~ 0
+R5+
+Text Label 12050 3700 0    60   ~ 0
+R3-
+Text Label 12050 3850 0    60   ~ 0
+R3+
+Text Label 12050 4000 0    60   ~ 0
+R1-
+Text Label 12050 4150 0    60   ~ 0
+R1+
+Text Label 12050 4300 0    60   ~ 0
+R2-
+Text Label 12050 4450 0    60   ~ 0
+R2+
+Text Label 12050 4600 0    60   ~ 0
+R4-
+Text Label 12050 4750 0    60   ~ 0
+R4+
+Text Label 12050 4900 0    60   ~ 0
+R6-
+Text Label 12050 5050 0    60   ~ 0
+R6+
+Text Label 12050 5200 0    60   ~ 0
+R8-
+Text Label 12050 5350 0    60   ~ 0
+R8+
+Text Label 12050 5500 0    60   ~ 0
+R10-
+Text Label 12050 5650 0    60   ~ 0
+R10+
+Text Label 12050 5800 0    60   ~ 0
+R12-
+Text Label 12050 5950 0    60   ~ 0
+R12+
+Text Label 12050 6100 0    60   ~ 0
+R14-
+Text Label 12050 6250 0    60   ~ 0
+R14+
+Text Label 12050 6400 0    60   ~ 0
+R16-
+Text Label 12050 6550 0    60   ~ 0
+R16+
+Text Label 12050 6700 0    60   ~ 0
+COL2
+Text Label 12050 6850 0    60   ~ 0
+COL1
+Text Label 12050 7000 0    60   ~ 0
+COL4
+Text Label 12050 7150 0    60   ~ 0
+COL3
+Text Label 12050 7300 0    60   ~ 0
+COL6
+Text Label 12050 7450 0    60   ~ 0
+COL5
+Text Label 12050 7600 0    60   ~ 0
+COL8
+Text Label 12050 7750 0    60   ~ 0
+COL7
+Text Label 12050 7900 0    60   ~ 0
+COL10
+Text Label 12050 8050 0    60   ~ 0
+COL9
+Text Label 12050 8200 0    60   ~ 0
+COL12
+Text Label 12050 8350 0    60   ~ 0
+COL11
+Text Label 12050 8500 0    60   ~ 0
+COL14
+Text Label 12050 8650 0    60   ~ 0
+COL13
+Text Label 12050 8800 0    60   ~ 0
+COL16
+Text Label 12050 8950 0    60   ~ 0
+COL15
+Text Label 12050 9100 0    60   ~ 0
+COL18
+Text Label 12050 9250 0    60   ~ 0
+COL17
+Text Label 12050 9400 0    60   ~ 0
+COL20
+Text Label 12050 9550 0    60   ~ 0
+COL19
+Text Label 12050 9700 0    60   ~ 0
+COL22
+Text Label 12050 9850 0    60   ~ 0
+COL21
+Text Label 12050 10000 0    60   ~ 0
+COL24
+Text Label 12050 10150 0    60   ~ 0
+COL23
+Text Label 12050 10300 0    60   ~ 0
+COL26
+Text Label 12050 10450 0    60   ~ 0
+COL25
+Text Label 12050 10600 0    60   ~ 0
+COL28
+Text Label 12050 10750 0    60   ~ 0
+COL27
 $EndSCHEMATC

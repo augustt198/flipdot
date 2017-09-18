@@ -1548,9 +1548,9 @@ F 3 "" H 20800 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Label 20800 3700 0    60   ~ 0
-SDA
-Text Label 20800 3800 0    60   ~ 0
 SCL
+Text Label 20800 3800 0    60   ~ 0
+SDA
 Text Label 18150 7700 0    60   ~ 0
 JACK_IN
 $EndSCHEMATC

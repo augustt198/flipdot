@@ -1,4 +1,4 @@
-update=Friday, September 15, 2017 'PMt' 05:46:32 PM
+update=Monday, September 18, 2017 'AMt' 10:26:22 AM
 version=1
 last_client=kicad
 [cvpcb]
@@ -44,7 +44,7 @@ LibName31=/Users/August/Documents/electronics/teensy_library/teensy
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=driver_28.net
+LastNetListRead=driver_30.net
 PadDrill=0.762
 PadDrillOvalY=0.762
 PadSizeH=1.524
