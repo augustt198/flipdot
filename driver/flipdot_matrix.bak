@@ -800,73 +800,6 @@ Text Label 7300 8850 0    60   ~ 0
 COL27
 Text Label 7300 9450 0    60   ~ 0
 COL28
-$Comp
-L CONN_02X32 J2
-U 1 1 598AFF7E
-P 11050 5900
-F 0 "J2" H 11050 7550 50  0000 C CNN
-F 1 "CONN_02X32" V 11050 5900 50  0000 C CNN
-F 2 "Socket_Strips:Socket_Strip_Straight_2x32_Pitch2.54mm" H 11050 5500 50  0001 C CNN
-F 3 "" H 11050 5500 50  0001 C CNN
-	1    11050 5900
-	1    0    0    -1  
-$EndComp
-Text Label 11300 6150 0    60   ~ 0
-COL1
-Text Label 10800 6150 2    60   ~ 0
-COL2
-Text Label 11300 6250 0    60   ~ 0
-COL3
-Text Label 10800 6250 2    60   ~ 0
-COL4
-Text Label 11300 6350 0    60   ~ 0
-COL5
-Text Label 10800 6350 2    60   ~ 0
-COL6
-Text Label 11300 6450 0    60   ~ 0
-COL7
-Text Label 10800 6450 2    60   ~ 0
-COL8
-Text Label 11300 6550 0    60   ~ 0
-COL9
-Text Label 10800 6550 2    60   ~ 0
-COL10
-Text Label 11300 6650 0    60   ~ 0
-COL11
-Text Label 10800 6650 2    60   ~ 0
-COL12
-Text Label 11300 6750 0    60   ~ 0
-COL13
-Text Label 10800 6750 2    60   ~ 0
-COL14
-Text Label 11300 6850 0    60   ~ 0
-COL15
-Text Label 10800 6850 2    60   ~ 0
-COL16
-Text Label 11300 6950 0    60   ~ 0
-COL17
-Text Label 10800 6950 2    60   ~ 0
-COL18
-Text Label 11300 7050 0    60   ~ 0
-COL19
-Text Label 10800 7050 2    60   ~ 0
-COL20
-Text Label 11300 7150 0    60   ~ 0
-COL21
-Text Label 10800 7150 2    60   ~ 0
-COL22
-Text Label 11300 7250 0    60   ~ 0
-COL23
-Text Label 10800 7250 2    60   ~ 0
-COL24
-Text Label 11300 7350 0    60   ~ 0
-COL25
-Text Label 10800 7350 2    60   ~ 0
-COL26
-Text Label 11300 7450 0    60   ~ 0
-COL27
-Text Label 10800 7450 2    60   ~ 0
-COL28
 Text Label 2500 2150 0    60   ~ 0
 R10+
 Text Label 2500 2750 0    60   ~ 0
@@ -923,74 +856,6 @@ Text Label 1800 10550 2    60   ~ 0
 R13-
 Text Label 2500 10750 0    60   ~ 0
 R15-
-Text Label 11300 6050 0    60   ~ 0
-R16+
-Text Label 11300 5950 0    60   ~ 0
-R14+
-Text Label 11300 5850 0    60   ~ 0
-R12+
-Text Label 11300 5750 0    60   ~ 0
-R10+
-Text Label 11300 5650 0    60   ~ 0
-R8+
-Text Label 11300 5550 0    60   ~ 0
-R6+
-Text Label 11300 5450 0    60   ~ 0
-R4+
-Text Label 11300 5350 0    60   ~ 0
-R2+
-Text Label 11300 5250 0    60   ~ 0
-R1+
-Text Label 11300 5150 0    60   ~ 0
-R3+
-Text Label 11300 5050 0    60   ~ 0
-R5+
-Text Label 11300 4950 0    60   ~ 0
-R7+
-Text Label 11300 4850 0    60   ~ 0
-R9+
-Text Label 11300 4750 0    60   ~ 0
-R11+
-Text Label 11300 4650 0    60   ~ 0
-R13+
-Text Label 11300 4550 0    60   ~ 0
-R15+
-Text Label 10800 6050 2    60   ~ 0
-R16-
-Text Label 10800 5950 2    60   ~ 0
-R14-
-Text Label 10800 5850 2    60   ~ 0
-R12-
-Text Label 10800 5750 2    60   ~ 0
-R10-
-Text Label 10800 5650 2    60   ~ 0
-R8-
-Text Label 10800 5550 2    60   ~ 0
-R6-
-Text Label 10800 5450 2    60   ~ 0
-R4-
-Text Label 10800 5350 2    60   ~ 0
-R2-
-Text Label 10800 5250 2    60   ~ 0
-R1-
-Text Label 10800 5150 2    60   ~ 0
-R3-
-Text Label 10800 5050 2    60   ~ 0
-R5-
-Text Label 10800 4950 2    60   ~ 0
-R7-
-Text Label 10800 4850 2    60   ~ 0
-R9-
-Text Label 10800 4750 2    60   ~ 0
-R11-
-Text Label 10800 4650 2    60   ~ 0
-R13-
-Text Label 10800 4550 2    60   ~ 0
-R15-
-NoConn ~ 11300 4350
-NoConn ~ 11300 4450
-NoConn ~ 10800 4350
-NoConn ~ 10800 4450
 Text Label 1800 1750 2    60   ~ 0
 R16+
 Text Label 2500 1550 0    60   ~ 0
@@ -1018,7 +883,7 @@ U 1 1 59BFED65
 P 13000 6000
 F 0 "J10" H 13000 10900 50  0000 C CNN
 F 1 "C96ABC" V 13250 6000 50  0000 C CNN
-F 2 "Connectors:C96ABCMD" H 13000 6000 50  0001 C CNN
+F 2 "img:C96ABCMD_custom" H 13000 6000 50  0001 C CNN
 F 3 "" H 13000 6000 50  0001 C CNN
 	1    13000 6000
 	1    0    0    -1  
