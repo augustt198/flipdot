@@ -223,75 +223,75 @@ F 3 "" H 2150 10450 60  0001 C CNN
 $EndComp
 Text HLabel 1300 1350 2    60   Input ~ 0
 FLIP+
-Text HLabel 2500 1650 2    60   Input ~ 0
-ROW14+
 Text HLabel 1800 1650 0    60   Input ~ 0
+ROW14+
+Text HLabel 2500 1650 2    60   Input ~ 0
 ROW16+
-Text HLabel 2500 2250 2    60   Input ~ 0
-ROW10+
 Text HLabel 1800 2250 0    60   Input ~ 0
+ROW10+
+Text HLabel 2500 2250 2    60   Input ~ 0
 ROW12+
-Text HLabel 2500 2850 2    60   Input ~ 0
-ROW6+
-Text HLabel 2500 3450 2    60   Input ~ 0
-ROW2+
 Text HLabel 1800 2850 0    60   Input ~ 0
-ROW8+
+ROW6+
 Text HLabel 1800 3450 0    60   Input ~ 0
+ROW2+
+Text HLabel 2500 2850 2    60   Input ~ 0
+ROW8+
+Text HLabel 2500 3450 2    60   Input ~ 0
 ROW4+
-Text HLabel 1800 4050 0    60   Input ~ 0
-ROW1+
 Text HLabel 2500 4050 2    60   Input ~ 0
+ROW1+
+Text HLabel 1800 4050 0    60   Input ~ 0
 ROW3+
-Text HLabel 2500 4650 2    60   Input ~ 0
-ROW7+
 Text HLabel 1800 4650 0    60   Input ~ 0
+ROW7+
+Text HLabel 2500 4650 2    60   Input ~ 0
 ROW5+
-Text HLabel 1800 5250 0    60   Input ~ 0
-ROW9+
 Text HLabel 2500 5250 2    60   Input ~ 0
+ROW9+
+Text HLabel 1800 5250 0    60   Input ~ 0
 ROW11+
-Text HLabel 1800 5850 0    60   Input ~ 0
-ROW13+
 Text HLabel 2500 5850 2    60   Input ~ 0
+ROW13+
+Text HLabel 1800 5850 0    60   Input ~ 0
 ROW15+
-Text HLabel 2500 6450 2    60   Input ~ 0
-ROW14-
 Text HLabel 1800 6450 0    60   Input ~ 0
+ROW14-
+Text HLabel 2500 6450 2    60   Input ~ 0
 ROW16-
-Text HLabel 1800 7050 0    60   Input ~ 0
-ROW12-
-Text HLabel 1800 7650 0    60   Input ~ 0
-ROW8-
 Text HLabel 2500 7050 2    60   Input ~ 0
-ROW10-
+ROW12-
 Text HLabel 2500 7650 2    60   Input ~ 0
+ROW8-
+Text HLabel 1800 7050 0    60   Input ~ 0
+ROW10-
+Text HLabel 1800 7650 0    60   Input ~ 0
 ROW6-
-Text HLabel 2500 8250 2    60   Input ~ 0
-ROW2-
 Text HLabel 1800 8250 0    60   Input ~ 0
+ROW2-
+Text HLabel 2500 8250 2    60   Input ~ 0
 ROW4-
-Text HLabel 2500 8850 2    60   Input ~ 0
-ROW3-
-Text HLabel 2500 9450 2    60   Input ~ 0
-ROW7-
-Text HLabel 2500 10050 2    60   Input ~ 0
-ROW11-
-Text HLabel 2500 10650 2    60   Input ~ 0
-ROW15-
 Text HLabel 1800 8850 0    60   Input ~ 0
-ROW1-
+ROW3-
 Text HLabel 1800 9450 0    60   Input ~ 0
-ROW5-
+ROW7-
 Text HLabel 1800 10050 0    60   Input ~ 0
-ROW9-
+ROW11-
 Text HLabel 1800 10650 0    60   Input ~ 0
+ROW15-
+Text HLabel 2500 8850 2    60   Input ~ 0
+ROW1-
+Text HLabel 2500 9450 2    60   Input ~ 0
+ROW5-
+Text HLabel 2500 10050 2    60   Input ~ 0
+ROW9-
+Text HLabel 2500 10650 2    60   Input ~ 0
 ROW13-
 $Comp
-L GND #PWR043
+L GND #PWR044
 U 1 1 598A021B
 P 1300 10950
-F 0 "#PWR043" H 1300 10700 50  0001 C CNN
+F 0 "#PWR044" H 1300 10700 50  0001 C CNN
 F 1 "GND" H 1300 10800 50  0000 C CNN
 F 2 "" H 1300 10950 50  0001 C CNN
 F 3 "" H 1300 10950 50  0001 C CNN
@@ -511,10 +511,10 @@ COL14-
 Text HLabel 6400 1200 0    60   Input ~ 0
 FLIP+
 $Comp
-L GND #PWR044
+L GND #PWR045
 U 1 1 598AA4EB
 P 6300 9700
-F 0 "#PWR044" H 6300 9450 50  0001 C CNN
+F 0 "#PWR045" H 6300 9450 50  0001 C CNN
 F 1 "GND" H 6300 9550 50  0000 C CNN
 F 2 "" H 6300 9700 50  0001 C CNN
 F 3 "" H 6300 9700 50  0001 C CNN
@@ -762,10 +762,10 @@ COL28-
 Text HLabel 9550 1200 0    60   Input ~ 0
 FLIP+
 $Comp
-L GND #PWR045
+L GND #PWR046
 U 1 1 598AC65E
 P 9450 9700
-F 0 "#PWR045" H 9450 9450 50  0001 C CNN
+F 0 "#PWR046" H 9450 9450 50  0001 C CNN
 F 1 "GND" H 9450 9550 50  0000 C CNN
 F 2 "" H 9450 9700 50  0001 C CNN
 F 3 "" H 9450 9700 50  0001 C CNN
@@ -800,77 +800,77 @@ Text Label 7300 8850 0    60   ~ 0
 COL27
 Text Label 7300 9450 0    60   ~ 0
 COL28
-Text Label 2500 2150 0    60   ~ 0
+Text Label 1800 2150 2    60   ~ 0
 R10+
-Text Label 2500 2750 0    60   ~ 0
+Text Label 1800 2750 2    60   ~ 0
 R6+
-Text Label 2500 3350 0    60   ~ 0
+Text Label 1800 3350 2    60   ~ 0
 R2+
-Text Label 1800 3550 2    60   ~ 0
+Text Label 2500 3550 0    60   ~ 0
 R4+
-Text Label 2500 3950 0    60   ~ 0
+Text Label 1800 3950 2    60   ~ 0
 R3+
-Text Label 1800 4150 2    60   ~ 0
+Text Label 2500 4150 0    60   ~ 0
 R1+
-Text Label 2500 4550 0    60   ~ 0
+Text Label 1800 4550 2    60   ~ 0
 R7+
-Text Label 1800 4750 2    60   ~ 0
+Text Label 2500 4750 0    60   ~ 0
 R5+
-Text Label 2500 5150 0    60   ~ 0
+Text Label 1800 5150 2    60   ~ 0
 R11+
-Text Label 1800 5350 2    60   ~ 0
+Text Label 2500 5350 0    60   ~ 0
 R9+
-Text Label 2500 5750 0    60   ~ 0
+Text Label 1800 5750 2    60   ~ 0
 R15+
-Text Label 1800 5950 2    60   ~ 0
+Text Label 2500 5950 0    60   ~ 0
 R13+
-Text Label 1800 6350 2    60   ~ 0
+Text Label 2500 6350 0    60   ~ 0
 R16-
-Text Label 2500 6550 0    60   ~ 0
+Text Label 1800 6550 2    60   ~ 0
 R14-
-Text Label 1800 6950 2    60   ~ 0
+Text Label 2500 6950 0    60   ~ 0
 R12-
-Text Label 2500 7150 0    60   ~ 0
+Text Label 1800 7150 2    60   ~ 0
 R10-
-Text Label 1800 7550 2    60   ~ 0
+Text Label 2500 7550 0    60   ~ 0
 R8-
-Text Label 2500 7750 0    60   ~ 0
+Text Label 1800 7750 2    60   ~ 0
 R6-
-Text Label 1800 8150 2    60   ~ 0
+Text Label 2500 8150 0    60   ~ 0
 R4-
-Text Label 2500 8350 0    60   ~ 0
+Text Label 1800 8350 2    60   ~ 0
 R2-
-Text Label 1800 8750 2    60   ~ 0
+Text Label 2500 8750 0    60   ~ 0
 R1-
-Text Label 2500 8950 0    60   ~ 0
+Text Label 1800 8950 2    60   ~ 0
 R3-
-Text Label 1800 9350 2    60   ~ 0
+Text Label 2500 9350 0    60   ~ 0
 R5-
-Text Label 2500 9550 0    60   ~ 0
+Text Label 1800 9550 2    60   ~ 0
 R7-
-Text Label 1800 9950 2    60   ~ 0
+Text Label 2500 9950 0    60   ~ 0
 R9-
-Text Label 2500 10150 0    60   ~ 0
+Text Label 1800 10150 2    60   ~ 0
 R11-
-Text Label 1800 10550 2    60   ~ 0
+Text Label 2500 10550 0    60   ~ 0
 R13-
-Text Label 2500 10750 0    60   ~ 0
+Text Label 1800 10750 2    60   ~ 0
 R15-
-Text Label 1800 1750 2    60   ~ 0
+Text Label 2500 1750 0    60   ~ 0
 R16+
-Text Label 2500 1550 0    60   ~ 0
+Text Label 1800 1550 2    60   ~ 0
 R14+
 Text HLabel 3350 1350 2    60   Input ~ 0
 FLIP+
-Text Label 1800 2350 2    60   ~ 0
+Text Label 2500 2350 0    60   ~ 0
 R12+
-Text Label 1800 2950 2    60   ~ 0
+Text Label 2500 2950 0    60   ~ 0
 R8+
 $Comp
-L GND #PWR046
+L GND #PWR047
 U 1 1 59A75F8A
 P 3250 10800
-F 0 "#PWR046" H 3250 10550 50  0001 C CNN
+F 0 "#PWR047" H 3250 10550 50  0001 C CNN
 F 1 "GND" H 3250 10650 50  0000 C CNN
 F 2 "" H 3250 10800 50  0001 C CNN
 F 3 "" H 3250 10800 50  0001 C CNN
@@ -895,62 +895,16 @@ NoConn ~ 12500 1550
 NoConn ~ 12500 1650
 NoConn ~ 12500 1750
 Wire Wire Line
-	3350 2350 2500 2350
+	1300 1350 1300 5950
 Wire Wire Line
-	3350 2950 2500 2950
-Wire Wire Line
-	3350 3550 2500 3550
-Wire Wire Line
-	1300 1350 1300 5750
-Wire Wire Line
-	1300 6550 1300 10950
-Wire Wire Line
-	3350 4150 2500 4150
-Wire Wire Line
-	3350 4750 2500 4750
-Wire Wire Line
-	3350 5350 2500 5350
-Wire Wire Line
-	3350 5950 2500 5950
-Wire Wire Line
-	1800 6550 1300 6550
+	1300 6350 1300 10950
 Connection ~ 1300 6550
-Wire Wire Line
-	1800 7150 1300 7150
 Connection ~ 1300 7150
-Wire Wire Line
-	2500 6350 3250 6350
-Wire Wire Line
-	2500 6950 3250 6950
-Wire Wire Line
-	1800 7750 1300 7750
 Connection ~ 1300 7750
-Wire Wire Line
-	3250 7550 2500 7550
-Wire Wire Line
-	3250 8150 2500 8150
-Wire Wire Line
-	1800 8950 1300 8950
 Connection ~ 1300 8950
-Wire Wire Line
-	1800 8350 1300 8350
 Connection ~ 1300 8350
-Wire Wire Line
-	3250 8750 2500 8750
-Wire Wire Line
-	3250 9350 2500 9350
-Wire Wire Line
-	1800 9550 1300 9550
 Connection ~ 1300 9550
-Wire Wire Line
-	1800 10150 1300 10150
 Connection ~ 1300 10150
-Wire Wire Line
-	3250 9950 2500 9950
-Wire Wire Line
-	3250 10550 2500 10550
-Wire Wire Line
-	1300 10750 1800 10750
 Wire Wire Line
 	4950 1550 4450 1550
 Wire Wire Line
@@ -1377,44 +1331,26 @@ Connection ~ 7600 8850
 Wire Wire Line
 	7600 9450 7300 9450
 Connection ~ 7600 9450
-Wire Wire Line
-	1300 1550 1800 1550
 Connection ~ 1300 1550
 Wire Wire Line
-	2500 1750 3350 1750
-Wire Wire Line
-	3350 1350 3350 5950
+	3350 1350 3350 5750
 Connection ~ 3350 1750
-Wire Wire Line
-	1300 2150 1800 2150
 Connection ~ 1300 2150
 Connection ~ 3350 2350
-Wire Wire Line
-	1300 2750 1800 2750
 Connection ~ 1300 2750
 Connection ~ 3350 2950
-Wire Wire Line
-	1800 3350 1300 3350
 Connection ~ 1300 3350
-Wire Wire Line
-	1300 3950 1800 3950
 Connection ~ 1300 3950
 Connection ~ 3350 3550
 Connection ~ 3350 4150
-Wire Wire Line
-	1300 4550 1800 4550
 Connection ~ 1300 4550
 Connection ~ 3350 4750
-Wire Wire Line
-	1300 5150 1800 5150
-Wire Wire Line
-	1300 5750 1800 5750
 Connection ~ 1300 5150
 Connection ~ 1300 5750
 Connection ~ 3350 5350
 Connection ~ 1300 10750
 Wire Wire Line
-	3250 6350 3250 10800
+	3250 6550 3250 10800
 Connection ~ 3250 6950
 Connection ~ 3250 7550
 Connection ~ 3250 8150
@@ -1752,4 +1688,98 @@ Text Label 12050 10600 0    60   ~ 0
 COL28
 Text Label 12050 10750 0    60   ~ 0
 COL27
+Wire Wire Line
+	1300 5950 1800 5950
+Wire Wire Line
+	1800 5350 1300 5350
+Connection ~ 1300 5350
+Wire Wire Line
+	1800 4750 1300 4750
+Connection ~ 1300 4750
+Wire Wire Line
+	1800 4150 1300 4150
+Connection ~ 1300 4150
+Wire Wire Line
+	1800 3550 1300 3550
+Connection ~ 1300 3550
+Wire Wire Line
+	1800 2950 1300 2950
+Connection ~ 1300 2950
+Wire Wire Line
+	1800 2350 1300 2350
+Connection ~ 1300 2350
+Wire Wire Line
+	1800 1750 1300 1750
+Connection ~ 1300 1750
+Wire Wire Line
+	3350 5750 2500 5750
+Connection ~ 3350 5750
+Wire Wire Line
+	2500 5150 3350 5150
+Connection ~ 3350 5150
+Wire Wire Line
+	2500 4550 3350 4550
+Connection ~ 3350 4550
+Wire Wire Line
+	2500 3950 3350 3950
+Connection ~ 3350 3950
+Wire Wire Line
+	2500 3350 3350 3350
+Connection ~ 3350 3350
+Wire Wire Line
+	2500 2750 3350 2750
+Connection ~ 3350 2750
+Wire Wire Line
+	2500 2150 3350 2150
+Connection ~ 3350 2150
+Wire Wire Line
+	2500 1550 3350 1550
+Connection ~ 3350 1550
+Wire Wire Line
+	1800 10550 1300 10550
+Connection ~ 1300 10550
+Wire Wire Line
+	1800 9950 1300 9950
+Connection ~ 1300 9950
+Wire Wire Line
+	1800 9350 1300 9350
+Connection ~ 1300 9350
+Wire Wire Line
+	1800 8750 1300 8750
+Connection ~ 1300 8750
+Wire Wire Line
+	1800 8150 1300 8150
+Connection ~ 1300 8150
+Wire Wire Line
+	1800 7550 1300 7550
+Connection ~ 1300 7550
+Wire Wire Line
+	1800 6350 1300 6350
+Wire Wire Line
+	1800 6950 1300 6950
+Connection ~ 1300 6950
+Wire Wire Line
+	2500 6550 3250 6550
+Connection ~ 3250 6550
+Wire Wire Line
+	2500 7150 3250 7150
+Connection ~ 3250 7150
+Wire Wire Line
+	2500 7750 3250 7750
+Connection ~ 3250 7750
+Wire Wire Line
+	2500 8350 3250 8350
+Connection ~ 3250 8350
+Wire Wire Line
+	2500 8950 3250 8950
+Connection ~ 3250 8950
+Wire Wire Line
+	2500 9550 3250 9550
+Connection ~ 3250 9550
+Wire Wire Line
+	2500 10150 3250 10150
+Connection ~ 3250 10150
+Wire Wire Line
+	2500 10750 3250 10750
+Connection ~ 3250 10750
 $EndSCHEMATC
