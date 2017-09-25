@@ -11,3 +11,11 @@ and an ESP2866.
 ### Notes
 
 - 15V is a good voltage to flip the dots, 50mA seems like enough current.
+
+Front:
+
+![front pcb](driver/gerber_img/front.png)
+
+Back:
+
+![back pcb](driver/gerber_img/back.png)
